@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.surf.iml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../:\Users\90507\surf\.idea\.idea.surf\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
